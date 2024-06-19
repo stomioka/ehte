@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: ehte
+Version: 1.0.1
+Summary: The Python package ehte is designed to assess the heterogeneity of treatment effects between study arms.
+Author-email: Sasagu Tomioka <sam.tomioka@us.sumitomo-pharma>, Joshua Siegel <jssiegel@wustl.edu>
+Project-URL: Homepage, https://github.com/stomioka/ehte
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib>=3.5.2
+Requires-Dist: seaborn>=0.11.2
+
+# ehte
+
+
+The Python package `ehte` is designed to assess the heterogeneity of treatment effects between study arms. To evaluate the presence and quantify the degree of treatment response variability, it calculates the variance in the differences in cumulative responses between the placebo and active treatment arms across various percentiles. It tests null hypotheses ($H_0$): suggesting homogeneity in treatment effect.  An alternative hypothesis indicating heterogeneity in treatment effect.
+
+See [tutorial](tutorial.html)

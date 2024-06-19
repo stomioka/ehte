@@ -1,0 +1,27 @@
+[project]
+name = "ehte"
+version = "1.0.1"
+dependencies = [
+        'pandas',
+        'numpy',
+        'matplotlib>=3.5.2',
+        'seaborn>=0.11.2'
+]
+authors = [
+  { name="Sasagu Tomioka", email="sam.tomioka@us.sumitomo-pharma" },
+  { name="Joshua Siegel", email="jssiegel@wustl.edu" }
+]
+description = "The Python package ehte is designed to assess the heterogeneity of treatment effects between study arms."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project.urls]
+Homepage = "https://github.com/stomioka/ehte"
