@@ -5,7 +5,7 @@ The Python package `ehte` is designed to assess the heterogeneity of treatment e
 
 eHTE_Estimator estimates the standard deviation of individual treatment effects (ITE) in two ways. 1. Uses actual patient data to determine percentiles. 2. It calculates percentiles at intervals from 3 to 97 by 2 (a total of 48 percentiles).
 
-See [tutorial]([tutorial.html](https://htmlpreview.github.io/?https://github.com/stomioka/ehte/blob/main/tutorial.html))
+See [tutorial](https://htmlpreview.github.io/?https://github.com/stomioka/ehte/blob/main/tutorial.html).
 
 See our paper 
 
