@@ -7,8 +7,8 @@ eHTE_Estimator estimates the standard deviation of individual treatment effects 
 
 See [tutorial](https://htmlpreview.github.io/?https://github.com/stomioka/ehte/blob/main/tutorial.html).
 
-SAS ehte macro and example SAS code are in [sas-ehte-macros](https://github.com/stomioka/ehte/tree/main/sas-ehte-macros)
+**SAS ehte macro and example SAS code** are in [sas-ehte-macros](https://github.com/stomioka/ehte/tree/main/sas-ehte-macros)
 
-See our paper 
+**See our paper** 
 
 [Siegel JS](https://scholar.google.com/citations?hl=en&user=DrHXk5wAAAAJ), Zhong J, [Tomioka S](https://scholar.google.com/citations?user=830xBqsAAAAJ), Ogirala A, Faraone SV, Szabo ST, Koblan KS, [Hopkins SC.](https://scholar.google.com/citations?hl=en&user=oBdcDJ0AAAAJ) Estimating heterogeneity of treatment effect in psychiatric clinical trials. medRxiv [Preprint]. 2024 Apr 23:2024.04.23.24306211. doi: 10.1101/2024.04.23.24306211. PMID: 38712180; PMCID: PMC11071592.
