@@ -1,4 +1,4 @@
-Readme_SAS_eHTE
+# Readme SAS eHTE
 
 1. eHTE-macro.sas: essential. It contains all the necessary macros the example file will call.
 2. eHTE_example: essential. It demonstrates how to read in a dataset which is already in the right format
